@@ -1,6 +1,5 @@
 <!--
 三道鎖設定包 by 影像說書人 Rick @jl_8111
-原始做法參考：Raymond Hou / claude-code-resources (CC BY-NC-SA 4.0)
 -->
 
 # 幫 AI 上三道鎖：讓你敢放手開全自動
@@ -216,4 +215,3 @@ Windows 沒有原生的對應工具，需要先裝 WSL（在 Windows 裡跑一�
 ---
 
 三道鎖設定包 by **影像說書人 Rick** @jl_8111
-原始做法參考：Raymond Hou / claude-code-resources（CC BY-NC-SA 4.0）
